@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\ListInputOutput\bin\Debug\net8.0\ListInputOutput.exe
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\ListInputOutput\bin\Debug\net8.0\ListInputOutput.deps.json
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\ListInputOutput\bin\Debug\net8.0\ListInputOutput.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\ListInputOutput\bin\Debug\net8.0\ListInputOutput.dll
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\ListInputOutput\bin\Debug\net8.0\ListInputOutput.pdb
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\ListInputOutput\obj\Debug\net8.0\ListInputOutput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\ListInputOutput\obj\Debug\net8.0\ListInputOutput.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\ListInputOutput\obj\Debug\net8.0\ListInputOutput.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\ListInputOutput\obj\Debug\net8.0\ListInputOutput.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\ListInputOutput\obj\Debug\net8.0\ListInputOutput.dll
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\ListInputOutput\obj\Debug\net8.0\refint\ListInputOutput.dll
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\ListInputOutput\obj\Debug\net8.0\ListInputOutput.pdb
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\ListInputOutput\obj\Debug\net8.0\ListInputOutput.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\ListInputOutput\obj\Debug\net8.0\ref\ListInputOutput.dll

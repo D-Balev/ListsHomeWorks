@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\VuvejdaneSpisuk\bin\Debug\net8.0\VuvejdaneSpisuk.exe
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\VuvejdaneSpisuk\bin\Debug\net8.0\VuvejdaneSpisuk.deps.json
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\VuvejdaneSpisuk\bin\Debug\net8.0\VuvejdaneSpisuk.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\VuvejdaneSpisuk\bin\Debug\net8.0\VuvejdaneSpisuk.dll
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\VuvejdaneSpisuk\bin\Debug\net8.0\VuvejdaneSpisuk.pdb
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\VuvejdaneSpisuk\obj\Debug\net8.0\VuvejdaneSpisuk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\VuvejdaneSpisuk\obj\Debug\net8.0\VuvejdaneSpisuk.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\VuvejdaneSpisuk\obj\Debug\net8.0\VuvejdaneSpisuk.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\VuvejdaneSpisuk\obj\Debug\net8.0\VuvejdaneSpisuk.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\VuvejdaneSpisuk\obj\Debug\net8.0\VuvejdaneSpisuk.dll
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\VuvejdaneSpisuk\obj\Debug\net8.0\refint\VuvejdaneSpisuk.dll
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\VuvejdaneSpisuk\obj\Debug\net8.0\VuvejdaneSpisuk.pdb
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\VuvejdaneSpisuk\obj\Debug\net8.0\VuvejdaneSpisuk.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\VuvejdaneSpisuk\obj\Debug\net8.0\ref\VuvejdaneSpisuk.dll

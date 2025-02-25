@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\SpsukImena\bin\Debug\net8.0\SpsukImena.exe
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\SpsukImena\bin\Debug\net8.0\SpsukImena.deps.json
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\SpsukImena\bin\Debug\net8.0\SpsukImena.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\SpsukImena\bin\Debug\net8.0\SpsukImena.dll
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\SpsukImena\bin\Debug\net8.0\SpsukImena.pdb
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\SpsukImena\obj\Debug\net8.0\SpsukImena.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\SpsukImena\obj\Debug\net8.0\SpsukImena.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\SpsukImena\obj\Debug\net8.0\SpsukImena.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\SpsukImena\obj\Debug\net8.0\SpsukImena.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\SpsukImena\obj\Debug\net8.0\SpsukImena.dll
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\SpsukImena\obj\Debug\net8.0\refint\SpsukImena.dll
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\SpsukImena\obj\Debug\net8.0\SpsukImena.pdb
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\SpsukImena\obj\Debug\net8.0\SpsukImena.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\SpsukImena\obj\Debug\net8.0\ref\SpsukImena.dll
