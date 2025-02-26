@@ -1,0 +1,15 @@
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Chetnichisla\bin\Debug\net8.0\Chetnichisla.exe
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Chetnichisla\bin\Debug\net8.0\Chetnichisla.deps.json
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Chetnichisla\bin\Debug\net8.0\Chetnichisla.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Chetnichisla\bin\Debug\net8.0\Chetnichisla.dll
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Chetnichisla\bin\Debug\net8.0\Chetnichisla.pdb
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Chetnichisla\obj\Debug\net8.0\Chetnichisla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Chetnichisla\obj\Debug\net8.0\Chetnichisla.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Chetnichisla\obj\Debug\net8.0\Chetnichisla.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Chetnichisla\obj\Debug\net8.0\Chetnichisla.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Chetnichisla\obj\Debug\net8.0\Chetnichisla.sourcelink.json
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Chetnichisla\obj\Debug\net8.0\Chetnichisla.dll
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Chetnichisla\obj\Debug\net8.0\refint\Chetnichisla.dll
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Chetnichisla\obj\Debug\net8.0\Chetnichisla.pdb
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Chetnichisla\obj\Debug\net8.0\Chetnichisla.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Chetnichisla\obj\Debug\net8.0\ref\Chetnichisla.dll

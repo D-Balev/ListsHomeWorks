@@ -1,0 +1,15 @@
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Krainosti\bin\Debug\net8.0\Krainosti.exe
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Krainosti\bin\Debug\net8.0\Krainosti.deps.json
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Krainosti\bin\Debug\net8.0\Krainosti.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Krainosti\bin\Debug\net8.0\Krainosti.dll
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Krainosti\bin\Debug\net8.0\Krainosti.pdb
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Krainosti\obj\Debug\net8.0\Krainosti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Krainosti\obj\Debug\net8.0\Krainosti.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Krainosti\obj\Debug\net8.0\Krainosti.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Krainosti\obj\Debug\net8.0\Krainosti.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Krainosti\obj\Debug\net8.0\Krainosti.sourcelink.json
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Krainosti\obj\Debug\net8.0\Krainosti.dll
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Krainosti\obj\Debug\net8.0\refint\Krainosti.dll
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Krainosti\obj\Debug\net8.0\Krainosti.pdb
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Krainosti\obj\Debug\net8.0\Krainosti.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Krainosti\obj\Debug\net8.0\ref\Krainosti.dll

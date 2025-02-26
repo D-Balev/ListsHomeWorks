@@ -1,0 +1,15 @@
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Maksimalen\bin\Debug\net8.0\Maksimalen.exe
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Maksimalen\bin\Debug\net8.0\Maksimalen.deps.json
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Maksimalen\bin\Debug\net8.0\Maksimalen.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Maksimalen\bin\Debug\net8.0\Maksimalen.dll
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Maksimalen\bin\Debug\net8.0\Maksimalen.pdb
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Maksimalen\obj\Debug\net8.0\Maksimalen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Maksimalen\obj\Debug\net8.0\Maksimalen.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Maksimalen\obj\Debug\net8.0\Maksimalen.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Maksimalen\obj\Debug\net8.0\Maksimalen.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Maksimalen\obj\Debug\net8.0\Maksimalen.sourcelink.json
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Maksimalen\obj\Debug\net8.0\Maksimalen.dll
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Maksimalen\obj\Debug\net8.0\refint\Maksimalen.dll
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Maksimalen\obj\Debug\net8.0\Maksimalen.pdb
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Maksimalen\obj\Debug\net8.0\Maksimalen.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Maksimalen\obj\Debug\net8.0\ref\Maksimalen.dll

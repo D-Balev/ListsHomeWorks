@@ -1,0 +1,15 @@
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Oburnatichisla\bin\Debug\net8.0\Oburnatichisla.exe
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Oburnatichisla\bin\Debug\net8.0\Oburnatichisla.deps.json
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Oburnatichisla\bin\Debug\net8.0\Oburnatichisla.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Oburnatichisla\bin\Debug\net8.0\Oburnatichisla.dll
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Oburnatichisla\bin\Debug\net8.0\Oburnatichisla.pdb
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Oburnatichisla\obj\Debug\net8.0\Oburnatichisla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Oburnatichisla\obj\Debug\net8.0\Oburnatichisla.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Oburnatichisla\obj\Debug\net8.0\Oburnatichisla.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Oburnatichisla\obj\Debug\net8.0\Oburnatichisla.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Oburnatichisla\obj\Debug\net8.0\Oburnatichisla.sourcelink.json
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Oburnatichisla\obj\Debug\net8.0\Oburnatichisla.dll
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Oburnatichisla\obj\Debug\net8.0\refint\Oburnatichisla.dll
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Oburnatichisla\obj\Debug\net8.0\Oburnatichisla.pdb
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Oburnatichisla\obj\Debug\net8.0\Oburnatichisla.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Oburnatichisla\obj\Debug\net8.0\ref\Oburnatichisla.dll
