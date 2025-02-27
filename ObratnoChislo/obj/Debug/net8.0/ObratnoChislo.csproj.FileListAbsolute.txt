@@ -1,0 +1,15 @@
+C:\dian9a\ListsHomeWorks\ObratnoChislo\bin\Debug\net8.0\ObratnoChislo.exe
+C:\dian9a\ListsHomeWorks\ObratnoChislo\bin\Debug\net8.0\ObratnoChislo.deps.json
+C:\dian9a\ListsHomeWorks\ObratnoChislo\bin\Debug\net8.0\ObratnoChislo.runtimeconfig.json
+C:\dian9a\ListsHomeWorks\ObratnoChislo\bin\Debug\net8.0\ObratnoChislo.dll
+C:\dian9a\ListsHomeWorks\ObratnoChislo\bin\Debug\net8.0\ObratnoChislo.pdb
+C:\dian9a\ListsHomeWorks\ObratnoChislo\obj\Debug\net8.0\ObratnoChislo.GeneratedMSBuildEditorConfig.editorconfig
+C:\dian9a\ListsHomeWorks\ObratnoChislo\obj\Debug\net8.0\ObratnoChislo.AssemblyInfoInputs.cache
+C:\dian9a\ListsHomeWorks\ObratnoChislo\obj\Debug\net8.0\ObratnoChislo.AssemblyInfo.cs
+C:\dian9a\ListsHomeWorks\ObratnoChislo\obj\Debug\net8.0\ObratnoChislo.csproj.CoreCompileInputs.cache
+C:\dian9a\ListsHomeWorks\ObratnoChislo\obj\Debug\net8.0\ObratnoChislo.sourcelink.json
+C:\dian9a\ListsHomeWorks\ObratnoChislo\obj\Debug\net8.0\ObratnoChislo.dll
+C:\dian9a\ListsHomeWorks\ObratnoChislo\obj\Debug\net8.0\refint\ObratnoChislo.dll
+C:\dian9a\ListsHomeWorks\ObratnoChislo\obj\Debug\net8.0\ObratnoChislo.pdb
+C:\dian9a\ListsHomeWorks\ObratnoChislo\obj\Debug\net8.0\ObratnoChislo.genruntimeconfig.cache
+C:\dian9a\ListsHomeWorks\ObratnoChislo\obj\Debug\net8.0\ref\ObratnoChislo.dll

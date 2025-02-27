@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\OneDrive\\Desktop\\programirane\\ListsHomeWorks\\Maksimalen\\Maksimalen.csproj": {}
+    "C:\\dian9a\\ListsHomeWorks\\Maksimalen\\Maksimalen.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\OneDrive\\Desktop\\programirane\\ListsHomeWorks\\Maksimalen\\Maksimalen.csproj": {
+    "C:\\dian9a\\ListsHomeWorks\\Maksimalen\\Maksimalen.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\OneDrive\\Desktop\\programirane\\ListsHomeWorks\\Maksimalen\\Maksimalen.csproj",
+        "projectUniqueName": "C:\\dian9a\\ListsHomeWorks\\Maksimalen\\Maksimalen.csproj",
         "projectName": "Maksimalen",
-        "projectPath": "C:\\Users\\Admin\\OneDrive\\Desktop\\programirane\\ListsHomeWorks\\Maksimalen\\Maksimalen.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\OneDrive\\Desktop\\programirane\\ListsHomeWorks\\Maksimalen\\obj\\",
+        "projectPath": "C:\\dian9a\\ListsHomeWorks\\Maksimalen\\Maksimalen.csproj",
+        "packagesPath": "C:\\Users\\1212-2\\.nuget\\packages\\",
+        "outputPath": "C:\\dian9a\\ListsHomeWorks\\Maksimalen\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\1212-2\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -43,7 +43,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -64,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.103/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
