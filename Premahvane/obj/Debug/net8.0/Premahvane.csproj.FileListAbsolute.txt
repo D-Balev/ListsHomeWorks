@@ -1,0 +1,15 @@
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Premahvane\bin\Debug\net8.0\Premahvane.exe
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Premahvane\bin\Debug\net8.0\Premahvane.deps.json
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Premahvane\bin\Debug\net8.0\Premahvane.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Premahvane\bin\Debug\net8.0\Premahvane.dll
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Premahvane\bin\Debug\net8.0\Premahvane.pdb
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Premahvane\obj\Debug\net8.0\Premahvane.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Premahvane\obj\Debug\net8.0\Premahvane.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Premahvane\obj\Debug\net8.0\Premahvane.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Premahvane\obj\Debug\net8.0\Premahvane.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Premahvane\obj\Debug\net8.0\Premahvane.sourcelink.json
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Premahvane\obj\Debug\net8.0\Premahvane.dll
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Premahvane\obj\Debug\net8.0\refint\Premahvane.dll
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Premahvane\obj\Debug\net8.0\Premahvane.pdb
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Premahvane\obj\Debug\net8.0\Premahvane.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Premahvane\obj\Debug\net8.0\ref\Premahvane.dll
