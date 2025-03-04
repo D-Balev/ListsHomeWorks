@@ -1,0 +1,15 @@
+C:\dian9a\ListsHomeWorks\Izvlichane\bin\Debug\net8.0\Izvlichane.exe
+C:\dian9a\ListsHomeWorks\Izvlichane\bin\Debug\net8.0\Izvlichane.deps.json
+C:\dian9a\ListsHomeWorks\Izvlichane\bin\Debug\net8.0\Izvlichane.runtimeconfig.json
+C:\dian9a\ListsHomeWorks\Izvlichane\bin\Debug\net8.0\Izvlichane.dll
+C:\dian9a\ListsHomeWorks\Izvlichane\bin\Debug\net8.0\Izvlichane.pdb
+C:\dian9a\ListsHomeWorks\Izvlichane\obj\Debug\net8.0\Izvlichane.GeneratedMSBuildEditorConfig.editorconfig
+C:\dian9a\ListsHomeWorks\Izvlichane\obj\Debug\net8.0\Izvlichane.AssemblyInfoInputs.cache
+C:\dian9a\ListsHomeWorks\Izvlichane\obj\Debug\net8.0\Izvlichane.AssemblyInfo.cs
+C:\dian9a\ListsHomeWorks\Izvlichane\obj\Debug\net8.0\Izvlichane.csproj.CoreCompileInputs.cache
+C:\dian9a\ListsHomeWorks\Izvlichane\obj\Debug\net8.0\Izvlichane.sourcelink.json
+C:\dian9a\ListsHomeWorks\Izvlichane\obj\Debug\net8.0\Izvlichane.dll
+C:\dian9a\ListsHomeWorks\Izvlichane\obj\Debug\net8.0\refint\Izvlichane.dll
+C:\dian9a\ListsHomeWorks\Izvlichane\obj\Debug\net8.0\Izvlichane.pdb
+C:\dian9a\ListsHomeWorks\Izvlichane\obj\Debug\net8.0\Izvlichane.genruntimeconfig.cache
+C:\dian9a\ListsHomeWorks\Izvlichane\obj\Debug\net8.0\ref\Izvlichane.dll
