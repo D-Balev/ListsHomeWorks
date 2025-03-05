@@ -3,10 +3,40 @@
   "WorkspaceRootPath": "C:\\dian9a\\ListsHomeWorks\\",
   "Documents": [
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{9C28C35D-AD70-4C87-8DBF-BEE3F3374CF3}|komandi\\komandi.csproj|c:\\dian9a\\listshomeworks\\komandi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9C28C35D-AD70-4C87-8DBF-BEE3F3374CF3}|komandi\\komandi.csproj|solutionrelative:komandi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+=======
+<<<<<<< HEAD
+      "AbsoluteMoniker": "D:0:0:{50DEB09A-9DD7-4320-BE75-4DD44FFF6410}|Otricatelni\\Otricatelni.csproj|c:\\users\\admin\\onedrive\\desktop\\programirane\\listshomeworks\\otricatelni\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50DEB09A-9DD7-4320-BE75-4DD44FFF6410}|Otricatelni\\Otricatelni.csproj|solutionrelative:otricatelni\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D77208-7392-4965-AB8A-4B7D055200A8}|Oburnatichisla\\Oburnatichisla.csproj|c:\\users\\admin\\onedrive\\desktop\\programirane\\listshomeworks\\oburnatichisla\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D77208-7392-4965-AB8A-4B7D055200A8}|Oburnatichisla\\Oburnatichisla.csproj|solutionrelative:oburnatichisla\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E03111-F02A-4C2D-9788-C67A54509741}|VuvejdaneSpisuk\\VuvejdaneSpisuk.csproj|c:\\users\\admin\\onedrive\\desktop\\programirane\\listshomeworks\\vuvejdanespisuk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E03111-F02A-4C2D-9788-C67A54509741}|VuvejdaneSpisuk\\VuvejdaneSpisuk.csproj|solutionrelative:vuvejdanespisuk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F81BDDD-5D35-4D7C-8307-DFD03E04A82A}|Premahvane\\Premahvane.csproj|c:\\users\\admin\\onedrive\\desktop\\programirane\\listshomeworks\\premahvane\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F81BDDD-5D35-4D7C-8307-DFD03E04A82A}|Premahvane\\Premahvane.csproj|solutionrelative:premahvane\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0562587B-7F6C-421C-8966-A4D110D1D12A}|Krainosti\\Krainosti.csproj|c:\\users\\admin\\onedrive\\desktop\\programirane\\listshomeworks\\krainosti\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0562587B-7F6C-421C-8966-A4D110D1D12A}|Krainosti\\Krainosti.csproj|solutionrelative:krainosti\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3F68756-9B79-4F49-A656-1AD7C27EB908}|Chetnichisla\\Chetnichisla.csproj|c:\\users\\admin\\onedrive\\desktop\\programirane\\listshomeworks\\chetnichisla\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3F68756-9B79-4F49-A656-1AD7C27EB908}|Chetnichisla\\Chetnichisla.csproj|solutionrelative:chetnichisla\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B64EB8F1-68EF-4338-BDBD-BEF80522AD23}|ListInputOutput\\ListInputOutput.csproj|c:\\users\\admin\\onedrive\\desktop\\programirane\\listshomeworks\\listinputoutput\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+=======
+>>>>>>> 35c8f122fd7c984f1cfbdb262ea51402611cbdd8
       "AbsoluteMoniker": "D:0:0:{7B9DE48A-FF6B-473E-84E9-DF68838F137F}|ObratnoChislo\\ObratnoChislo.csproj|c:\\dian9a\\listshomeworks\\obratnochislo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B9DE48A-FF6B-473E-84E9-DF68838F137F}|ObratnoChislo\\ObratnoChislo.csproj|solutionrelative:obratnochislo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -20,6 +50,7 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{B64EB8F1-68EF-4338-BDBD-BEF80522AD23}|ListInputOutput\\ListInputOutput.csproj|c:\\dian9a\\listshomeworks\\listinputoutput\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+>>>>>>> 4e6be3791ee4789634db2529841e65742ed7bb4b
       "RelativeMoniker": "D:0:0:{B64EB8F1-68EF-4338-BDBD-BEF80522AD23}|ListInputOutput\\ListInputOutput.csproj|solutionrelative:listinputoutput\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -27,6 +58,10 @@
       "RelativeMoniker": "D:0:0:{1BAE2F96-4D7A-481E-91DF-787AFFD19BC6}|Maksimalen\\Maksimalen.csproj|solutionrelative:maksimalen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+<<<<<<< HEAD
+      "AbsoluteMoniker": "D:0:0:{2C1D08CF-C387-44B4-84E2-EF0F5FC99E29}|SpsukImena\\SpsukImena.csproj|c:\\users\\admin\\onedrive\\desktop\\programirane\\listshomeworks\\spsukimena\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C1D08CF-C387-44B4-84E2-EF0F5FC99E29}|SpsukImena\\SpsukImena.csproj|solutionrelative:spsukimena\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
       "AbsoluteMoniker": "D:0:0:{12D457B7-9161-478B-B3C4-57C42D73C2AF}|Izvlichane\\Izvlichane.csproj|c:\\dian9a\\listshomeworks\\izvlichane\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{12D457B7-9161-478B-B3C4-57C42D73C2AF}|Izvlichane\\Izvlichane.csproj|solutionrelative:izvlichane\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -41,6 +76,7 @@
     {
       "AbsoluteMoniker": "D:0:0:{35E03111-F02A-4C2D-9788-C67A54509741}|VuvejdaneSpisuk\\VuvejdaneSpisuk.csproj|c:\\dian9a\\listshomeworks\\vuvejdanespisuk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{35E03111-F02A-4C2D-9788-C67A54509741}|VuvejdaneSpisuk\\VuvejdaneSpisuk.csproj|solutionrelative:vuvejdanespisuk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> 4e6be3791ee4789634db2529841e65742ed7bb4b
     }
   ],
   "DocumentGroupContainers": [
@@ -68,6 +104,7 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+<<<<<<< HEAD
               "DocumentMoniker": "C:\\dian9a\\ListsHomeWorks\\komandi\\Program.cs",
               "RelativeDocumentMoniker": "komandi\\Program.cs",
               "ToolTip": "C:\\dian9a\\ListsHomeWorks\\komandi\\Program.cs",
@@ -81,17 +118,49 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
+=======
+<<<<<<< HEAD
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\programirane\\ListsHomeWorks\\Otricatelni\\Program.cs",
+              "RelativeDocumentMoniker": "Otricatelni\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\programirane\\ListsHomeWorks\\Otricatelni\\Program.cs",
+              "RelativeToolTip": "Otricatelni\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T19:30:40.948Z",
+=======
+>>>>>>> 35c8f122fd7c984f1cfbdb262ea51402611cbdd8
               "DocumentMoniker": "C:\\dian9a\\ListsHomeWorks\\ObratnoChislo\\Program.cs",
               "RelativeDocumentMoniker": "ObratnoChislo\\Program.cs",
               "ToolTip": "C:\\dian9a\\ListsHomeWorks\\ObratnoChislo\\Program.cs",
               "RelativeToolTip": "ObratnoChislo\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+<<<<<<< HEAD
               "WhenOpened": "2025-02-27T07:12:03.675Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+=======
+              "WhenOpened": "2025-02-27T07:12:03.675Z",
+>>>>>>> 4e6be3791ee4789634db2529841e65742ed7bb4b
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\programirane\\ListsHomeWorks\\Premahvane\\Program.cs",
+              "RelativeDocumentMoniker": "Premahvane\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\programirane\\ListsHomeWorks\\Premahvane\\Program.cs",
+              "RelativeToolTip": "Premahvane\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T19:00:37.93Z"
+=======
+              "DocumentIndex": 5,
+>>>>>>> 35c8f122fd7c984f1cfbdb262ea51402611cbdd8
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\dian9a\\ListsHomeWorks\\Izvlichane\\Program.cs",
               "RelativeDocumentMoniker": "Izvlichane\\Program.cs",
@@ -99,13 +168,23 @@
               "RelativeToolTip": "Izvlichane\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+<<<<<<< HEAD
               "WhenOpened": "2025-02-27T06:32:38.424Z"
+=======
+              "WhenOpened": "2025-02-27T06:32:38.424Z",
+              "EditorCaption": ""
+>>>>>>> 4e6be3791ee4789634db2529841e65742ed7bb4b
+>>>>>>> 35c8f122fd7c984f1cfbdb262ea51402611cbdd8
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
+<<<<<<< HEAD
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\programirane\\ListsHomeWorks\\Oburnatichisla\\Program.cs",
+=======
               "DocumentMoniker": "C:\\dian9a\\ListsHomeWorks\\Oburnatichisla\\Program.cs",
+>>>>>>> 4e6be3791ee4789634db2529841e65742ed7bb4b
               "RelativeDocumentMoniker": "Oburnatichisla\\Program.cs",
               "ToolTip": "C:\\dian9a\\ListsHomeWorks\\Oburnatichisla\\Program.cs",
               "RelativeToolTip": "Oburnatichisla\\Program.cs",
@@ -115,7 +194,15 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 5,
+=======
+<<<<<<< HEAD
+              "DocumentIndex": 7,
+=======
+              "DocumentIndex": 4,
+>>>>>>> 4e6be3791ee4789634db2529841e65742ed7bb4b
+>>>>>>> 35c8f122fd7c984f1cfbdb262ea51402611cbdd8
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\dian9a\\ListsHomeWorks\\Maksimalen\\Program.cs",
               "RelativeDocumentMoniker": "Maksimalen\\Program.cs",
@@ -127,7 +214,15 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 7,
+=======
+<<<<<<< HEAD
+              "DocumentIndex": 4,
+=======
+              "DocumentIndex": 6,
+>>>>>>> 4e6be3791ee4789634db2529841e65742ed7bb4b
+>>>>>>> 35c8f122fd7c984f1cfbdb262ea51402611cbdd8
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\dian9a\\ListsHomeWorks\\Krainosti\\Program.cs",
               "RelativeDocumentMoniker": "Krainosti\\Program.cs",
@@ -139,7 +234,15 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 8,
+=======
+<<<<<<< HEAD
+              "DocumentIndex": 5,
+=======
+              "DocumentIndex": 7,
+>>>>>>> 4e6be3791ee4789634db2529841e65742ed7bb4b
+>>>>>>> 35c8f122fd7c984f1cfbdb262ea51402611cbdd8
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\dian9a\\ListsHomeWorks\\Chetnichisla\\Program.cs",
               "RelativeDocumentMoniker": "Chetnichisla\\Program.cs",
@@ -151,7 +254,15 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 3,
+=======
+<<<<<<< HEAD
+              "DocumentIndex": 8,
+=======
+              "DocumentIndex": 2,
+>>>>>>> 4e6be3791ee4789634db2529841e65742ed7bb4b
+>>>>>>> 35c8f122fd7c984f1cfbdb262ea51402611cbdd8
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\dian9a\\ListsHomeWorks\\SpsukImena\\Program.cs",
               "RelativeDocumentMoniker": "SpsukImena\\Program.cs",
@@ -163,7 +274,15 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 9,
+=======
+<<<<<<< HEAD
+              "DocumentIndex": 2,
+=======
+              "DocumentIndex": 8,
+>>>>>>> 4e6be3791ee4789634db2529841e65742ed7bb4b
+>>>>>>> 35c8f122fd7c984f1cfbdb262ea51402611cbdd8
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\dian9a\\ListsHomeWorks\\VuvejdaneSpisuk\\Program.cs",
               "RelativeDocumentMoniker": "VuvejdaneSpisuk\\Program.cs",
@@ -175,7 +294,15 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 4,
+=======
+<<<<<<< HEAD
+              "DocumentIndex": 6,
+=======
+              "DocumentIndex": 3,
+>>>>>>> 4e6be3791ee4789634db2529841e65742ed7bb4b
+>>>>>>> 35c8f122fd7c984f1cfbdb262ea51402611cbdd8
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\dian9a\\ListsHomeWorks\\ListInputOutput\\Program.cs",
               "RelativeDocumentMoniker": "ListInputOutput\\Program.cs",

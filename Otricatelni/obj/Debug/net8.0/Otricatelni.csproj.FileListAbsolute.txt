@@ -1,0 +1,15 @@
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Otricatelni\bin\Debug\net8.0\Otricatelni.exe
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Otricatelni\bin\Debug\net8.0\Otricatelni.deps.json
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Otricatelni\bin\Debug\net8.0\Otricatelni.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Otricatelni\bin\Debug\net8.0\Otricatelni.dll
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Otricatelni\bin\Debug\net8.0\Otricatelni.pdb
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Otricatelni\obj\Debug\net8.0\Otricatelni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Otricatelni\obj\Debug\net8.0\Otricatelni.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Otricatelni\obj\Debug\net8.0\Otricatelni.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Otricatelni\obj\Debug\net8.0\Otricatelni.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Otricatelni\obj\Debug\net8.0\Otricatelni.sourcelink.json
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Otricatelni\obj\Debug\net8.0\Otricatelni.dll
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Otricatelni\obj\Debug\net8.0\refint\Otricatelni.dll
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Otricatelni\obj\Debug\net8.0\Otricatelni.pdb
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Otricatelni\obj\Debug\net8.0\Otricatelni.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Otricatelni\obj\Debug\net8.0\ref\Otricatelni.dll
