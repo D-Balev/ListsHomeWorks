@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\dian9a\\ListsHomeWorks\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9C28C35D-AD70-4C87-8DBF-BEE3F3374CF3}|komandi\\komandi.csproj|c:\\dian9a\\listshomeworks\\komandi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C28C35D-AD70-4C87-8DBF-BEE3F3374CF3}|komandi\\komandi.csproj|solutionrelative:komandi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7B9DE48A-FF6B-473E-84E9-DF68838F137F}|ObratnoChislo\\ObratnoChislo.csproj|c:\\dian9a\\listshomeworks\\obratnochislo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B9DE48A-FF6B-473E-84E9-DF68838F137F}|ObratnoChislo\\ObratnoChislo.csproj|solutionrelative:obratnochislo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -46,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -57,21 +61,37 @@
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dian9a\\ListsHomeWorks\\komandi\\Program.cs",
+              "RelativeDocumentMoniker": "komandi\\Program.cs",
+              "ToolTip": "C:\\dian9a\\ListsHomeWorks\\komandi\\Program.cs",
+              "RelativeToolTip": "komandi\\Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwB8AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T11:04:28.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\dian9a\\ListsHomeWorks\\ObratnoChislo\\Program.cs",
               "RelativeDocumentMoniker": "ObratnoChislo\\Program.cs",
               "ToolTip": "C:\\dian9a\\ListsHomeWorks\\ObratnoChislo\\Program.cs",
               "RelativeToolTip": "ObratnoChislo\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T07:12:03.675Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-27T07:12:03.675Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\dian9a\\ListsHomeWorks\\Izvlichane\\Program.cs",
               "RelativeDocumentMoniker": "Izvlichane\\Program.cs",
@@ -79,12 +99,11 @@
               "RelativeToolTip": "Izvlichane\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T06:32:38.424Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-27T06:32:38.424Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\dian9a\\ListsHomeWorks\\Oburnatichisla\\Program.cs",
               "RelativeDocumentMoniker": "Oburnatichisla\\Program.cs",
@@ -92,12 +111,11 @@
               "RelativeToolTip": "Oburnatichisla\\Program.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAgwBQAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T21:01:08.981Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T21:01:08.981Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\dian9a\\ListsHomeWorks\\Maksimalen\\Program.cs",
               "RelativeDocumentMoniker": "Maksimalen\\Program.cs",
@@ -105,12 +123,11 @@
               "RelativeToolTip": "Maksimalen\\Program.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAgwCMAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T19:45:34.454Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T19:45:34.454Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\dian9a\\ListsHomeWorks\\Krainosti\\Program.cs",
               "RelativeDocumentMoniker": "Krainosti\\Program.cs",
@@ -118,12 +135,11 @@
               "RelativeToolTip": "Krainosti\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T19:20:49.745Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T19:20:49.745Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\dian9a\\ListsHomeWorks\\Chetnichisla\\Program.cs",
               "RelativeDocumentMoniker": "Chetnichisla\\Program.cs",
@@ -131,12 +147,11 @@
               "RelativeToolTip": "Chetnichisla\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T19:17:14.356Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T19:17:14.356Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\dian9a\\ListsHomeWorks\\SpsukImena\\Program.cs",
               "RelativeDocumentMoniker": "SpsukImena\\Program.cs",
@@ -144,12 +159,11 @@
               "RelativeToolTip": "SpsukImena\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T19:06:53.547Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-25T19:06:53.547Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\dian9a\\ListsHomeWorks\\VuvejdaneSpisuk\\Program.cs",
               "RelativeDocumentMoniker": "VuvejdaneSpisuk\\Program.cs",
@@ -161,7 +175,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\dian9a\\ListsHomeWorks\\ListInputOutput\\Program.cs",
               "RelativeDocumentMoniker": "ListInputOutput\\Program.cs",
@@ -169,8 +183,7 @@
               "RelativeToolTip": "ListInputOutput\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T18:18:10.667Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-25T18:18:10.667Z"
             }
           ]
         }

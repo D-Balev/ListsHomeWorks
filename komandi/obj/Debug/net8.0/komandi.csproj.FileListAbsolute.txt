@@ -1,0 +1,15 @@
+C:\dian9a\ListsHomeWorks\komandi\bin\Debug\net8.0\komandi.exe
+C:\dian9a\ListsHomeWorks\komandi\bin\Debug\net8.0\komandi.deps.json
+C:\dian9a\ListsHomeWorks\komandi\bin\Debug\net8.0\komandi.runtimeconfig.json
+C:\dian9a\ListsHomeWorks\komandi\bin\Debug\net8.0\komandi.dll
+C:\dian9a\ListsHomeWorks\komandi\bin\Debug\net8.0\komandi.pdb
+C:\dian9a\ListsHomeWorks\komandi\obj\Debug\net8.0\komandi.GeneratedMSBuildEditorConfig.editorconfig
+C:\dian9a\ListsHomeWorks\komandi\obj\Debug\net8.0\komandi.AssemblyInfoInputs.cache
+C:\dian9a\ListsHomeWorks\komandi\obj\Debug\net8.0\komandi.AssemblyInfo.cs
+C:\dian9a\ListsHomeWorks\komandi\obj\Debug\net8.0\komandi.csproj.CoreCompileInputs.cache
+C:\dian9a\ListsHomeWorks\komandi\obj\Debug\net8.0\komandi.sourcelink.json
+C:\dian9a\ListsHomeWorks\komandi\obj\Debug\net8.0\komandi.dll
+C:\dian9a\ListsHomeWorks\komandi\obj\Debug\net8.0\refint\komandi.dll
+C:\dian9a\ListsHomeWorks\komandi\obj\Debug\net8.0\komandi.pdb
+C:\dian9a\ListsHomeWorks\komandi\obj\Debug\net8.0\komandi.genruntimeconfig.cache
+C:\dian9a\ListsHomeWorks\komandi\obj\Debug\net8.0\ref\komandi.dll
