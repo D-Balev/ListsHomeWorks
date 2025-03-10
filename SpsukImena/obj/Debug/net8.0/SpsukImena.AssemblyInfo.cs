@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SpsukImena")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4e6be3791ee4789634db2529841e65742ed7bb4b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+609e672996e98f270e51dfe5943cfe5e3eb87537")]
 [assembly: System.Reflection.AssemblyProductAttribute("SpsukImena")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SpsukImena")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

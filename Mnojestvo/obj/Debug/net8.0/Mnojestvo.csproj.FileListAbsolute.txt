@@ -1,0 +1,15 @@
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Mnojestvo\bin\Debug\net8.0\Mnojestvo.exe
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Mnojestvo\bin\Debug\net8.0\Mnojestvo.deps.json
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Mnojestvo\bin\Debug\net8.0\Mnojestvo.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Mnojestvo\bin\Debug\net8.0\Mnojestvo.dll
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Mnojestvo\bin\Debug\net8.0\Mnojestvo.pdb
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Mnojestvo\obj\Debug\net8.0\Mnojestvo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Mnojestvo\obj\Debug\net8.0\Mnojestvo.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Mnojestvo\obj\Debug\net8.0\Mnojestvo.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Mnojestvo\obj\Debug\net8.0\Mnojestvo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Mnojestvo\obj\Debug\net8.0\Mnojestvo.sourcelink.json
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Mnojestvo\obj\Debug\net8.0\Mnojestvo.dll
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Mnojestvo\obj\Debug\net8.0\refint\Mnojestvo.dll
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Mnojestvo\obj\Debug\net8.0\Mnojestvo.pdb
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Mnojestvo\obj\Debug\net8.0\Mnojestvo.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Mnojestvo\obj\Debug\net8.0\ref\Mnojestvo.dll

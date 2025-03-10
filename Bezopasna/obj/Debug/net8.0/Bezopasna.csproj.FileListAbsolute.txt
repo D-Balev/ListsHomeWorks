@@ -1,0 +1,15 @@
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Bezopasna\bin\Debug\net8.0\Bezopasna.exe
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Bezopasna\bin\Debug\net8.0\Bezopasna.deps.json
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Bezopasna\bin\Debug\net8.0\Bezopasna.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Bezopasna\bin\Debug\net8.0\Bezopasna.dll
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Bezopasna\bin\Debug\net8.0\Bezopasna.pdb
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Bezopasna\obj\Debug\net8.0\Bezopasna.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Bezopasna\obj\Debug\net8.0\Bezopasna.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Bezopasna\obj\Debug\net8.0\Bezopasna.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Bezopasna\obj\Debug\net8.0\Bezopasna.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Bezopasna\obj\Debug\net8.0\Bezopasna.sourcelink.json
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Bezopasna\obj\Debug\net8.0\Bezopasna.dll
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Bezopasna\obj\Debug\net8.0\refint\Bezopasna.dll
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Bezopasna\obj\Debug\net8.0\Bezopasna.pdb
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Bezopasna\obj\Debug\net8.0\Bezopasna.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Desktop\programirane\ListsHomeWorks\Bezopasna\obj\Debug\net8.0\ref\Bezopasna.dll
